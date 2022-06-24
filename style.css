@@ -1,0 +1,24 @@
+/* CSS reset */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Body */
+
+.container {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.centre-me {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
